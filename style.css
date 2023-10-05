@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: blue;
+}
+
+nav{
+    background-color: rgb(12, 142, 255);
+    height: 80px;
+}
+
+nav a{
+    display: inline-block;
+    color: white;
+    margin-left: 300px;
+    margin-top: 30px;
+}
+
+section img{
+    height: 120px;
+    width: 120px;
+
+}
+
+footer h2{
+    color: white;
+    background-color: black;
+    height: 200px;
+}
